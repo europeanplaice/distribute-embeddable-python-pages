@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/distribute-embeddable-python-pages/static/css/main.44e39b57.css",
-    "main.js": "/distribute-embeddable-python-pages/static/js/main.ba3a9abd.js",
+    "main.css": "/distribute-embeddable-python-pages/static/css/main.2be746ed.css",
+    "main.js": "/distribute-embeddable-python-pages/static/js/main.c4d78f9d.js",
     "static/js/787.8712a8c2.chunk.js": "/distribute-embeddable-python-pages/static/js/787.8712a8c2.chunk.js",
     "index.html": "/distribute-embeddable-python-pages/index.html",
-    "main.44e39b57.css.map": "/distribute-embeddable-python-pages/static/css/main.44e39b57.css.map",
-    "main.ba3a9abd.js.map": "/distribute-embeddable-python-pages/static/js/main.ba3a9abd.js.map",
+    "main.2be746ed.css.map": "/distribute-embeddable-python-pages/static/css/main.2be746ed.css.map",
+    "main.c4d78f9d.js.map": "/distribute-embeddable-python-pages/static/js/main.c4d78f9d.js.map",
     "787.8712a8c2.chunk.js.map": "/distribute-embeddable-python-pages/static/js/787.8712a8c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44e39b57.css",
-    "static/js/main.ba3a9abd.js"
+    "static/css/main.2be746ed.css",
+    "static/js/main.c4d78f9d.js"
   ]
 }
