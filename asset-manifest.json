@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/distribute-embeddable-python-pages/static/css/main.2be746ed.css",
-    "main.js": "/distribute-embeddable-python-pages/static/js/main.d0555c95.js",
+    "main.js": "/distribute-embeddable-python-pages/static/js/main.26df8344.js",
     "static/js/787.8712a8c2.chunk.js": "/distribute-embeddable-python-pages/static/js/787.8712a8c2.chunk.js",
     "index.html": "/distribute-embeddable-python-pages/index.html",
     "main.2be746ed.css.map": "/distribute-embeddable-python-pages/static/css/main.2be746ed.css.map",
-    "main.d0555c95.js.map": "/distribute-embeddable-python-pages/static/js/main.d0555c95.js.map",
+    "main.26df8344.js.map": "/distribute-embeddable-python-pages/static/js/main.26df8344.js.map",
     "787.8712a8c2.chunk.js.map": "/distribute-embeddable-python-pages/static/js/787.8712a8c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2be746ed.css",
-    "static/js/main.d0555c95.js"
+    "static/js/main.26df8344.js"
   ]
 }
